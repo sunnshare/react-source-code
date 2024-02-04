@@ -16,6 +16,5 @@
 		"noImplicitReturns": false,
 		"skipLibCheck": true,
 		"baseUrl": "./packages"
-	},
-	"exclude": ["node_modules"]
+	}
 }
