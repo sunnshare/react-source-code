@@ -11,5 +11,3 @@
 - commitlint 提交信息校验
 
 ### 搭建环境
-
-pnpm init 初始化 package.json
